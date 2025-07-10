@@ -1,0 +1,14 @@
+.vscode/
+
+demo_ws/build/
+demo_ws/log/
+demo_ws/install/
+
+FastDDS/
+
+
+fastdds_demo/build/
+fastdds_demo2/build/
+
+DDS笔记.pdf
+*.zip
